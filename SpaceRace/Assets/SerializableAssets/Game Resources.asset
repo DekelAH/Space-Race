@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ef85496d495147409674a76e3fb61933, type: 3}
+  m_Name: Game Resources
+  m_EditorClassIdentifier: 
+  _spaceships:
+  - Type: 0
+    SpaceshipPrefabRef: {fileID: 272655055211335863, guid: 389d429ba95028f4a999bbbcc33362a5, type: 3}
+  - Type: 1
+    SpaceshipPrefabRef: {fileID: 4495621327577428338, guid: 29d4aa75f4def497d8a40ca547ff4a5a, type: 3}
+  - Type: 2
+    SpaceshipPrefabRef: {fileID: 3967007048662358663, guid: 19fa57a046aa449e79a8e02ce2f69f3b, type: 3}
+  - Type: 0
+    SpaceshipPrefabRef: {fileID: 3532172227730483726, guid: 804a5e37959fcb2449cb97fa2585232a, type: 3}
